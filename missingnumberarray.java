@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.Arrays;
 public class missingnumberarray {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
@@ -14,6 +13,6 @@ public class missingnumberarray {
                 System.out.println(arr[i]+1);
             }
         }
+        sc.close();
     }
-    
 }
