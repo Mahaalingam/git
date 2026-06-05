@@ -16,6 +16,7 @@ public class moveallzeroinend {
             }
         }
           System.out.println(Arrays.toString(arr1));
+          sc.close();
     }
     
 }
